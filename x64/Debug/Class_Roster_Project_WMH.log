@@ -1,0 +1,16 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\William Harris\source\repos\Class_Roster_Project_WMH\Class_Roster_Project_WMH\roster.cpp(7,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Harris\source\repos\Class_Roster_Project_WMH\Class_Roster_Project_WMH\roster.cpp(11,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Harris\source\repos\Class_Roster_Project_WMH\Class_Roster_Project_WMH\roster.cpp(15,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Harris\source\repos\Class_Roster_Project_WMH\Class_Roster_Project_WMH\roster.cpp(19,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Harris\source\repos\Class_Roster_Project_WMH\Class_Roster_Project_WMH\roster.cpp(23,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Harris\source\repos\Class_Roster_Project_WMH\Class_Roster_Project_WMH\roster.cpp(27,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Harris\source\repos\Class_Roster_Project_WMH\Class_Roster_Project_WMH\roster.cpp(31,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Harris\source\repos\Class_Roster_Project_WMH\Class_Roster_Project_WMH\roster.cpp(35,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Harris\source\repos\Class_Roster_Project_WMH\Class_Roster_Project_WMH\roster.cpp(39,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Harris\source\repos\Class_Roster_Project_WMH\Class_Roster_Project_WMH\roster.cpp(127,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\William Harris\source\repos\Class_Roster_Project_WMH\Class_Roster_Project_WMH\roster.cpp(130,69): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  student.cpp
+  Generating Code...
+  Class_Roster_Project_WMH.vcxproj -> C:\Users\William Harris\source\repos\Class_Roster_Project_WMH\x64\Debug\Class_Roster_Project_WMH.exe
